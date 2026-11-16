@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> More Essentials is now part of [Homuzen](https://github.com/homura-ai/homuzen), and this repository is no longer updated. To switch, install `https://github.com/homura-ai/homuzen` in Sine, remove this mod, and turn on **Enable More Essentials** in Homuzen's settings. Your settings carry over.
+
 # More Essentials
 
 A Sine JavaScript mod for Zen Browser that makes the Essentials cap configurable.
